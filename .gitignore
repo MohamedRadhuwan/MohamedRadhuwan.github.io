@@ -1,0 +1,7 @@
+# Dependencies & Temp
+ref_portfolio.html
+app.js
+analyze.py
+extract_details.py
+.DS_Store
+*.log
